@@ -1,0 +1,25 @@
+db_lms:
+
+-> tbl_dosen :
+	1. nip
+	2. nama dosen
+	3. jenis kelamin
+	4. alamat
+	5. nomor telepon
+	6. id_prodi
+	7. id_user
+	8. glr_depan
+	9. glr_belakang
+
+siaka:
+
+-> mdosen :
+	1. NIP
+	2. NMDOS
+	3. KEL
+	4. ALM	
+	5. TLP
+	6. PStudiID
+	7. 
+	8. GLR
+	9. GLR1
